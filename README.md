@@ -1,8 +1,8 @@
 # Language Exploration Project
 
-First install the requirements.
+First install the requirements. (Preferably in a virtual environment.)
 ```shell
-pip install requirements.txt (preferably in a virtual environment)
+pip install requirements.txt
 ```
 
 The project can be opened with jupyter lab or your favorite IDE that works with jupyter enviroments.
